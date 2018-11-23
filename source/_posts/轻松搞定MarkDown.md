@@ -1,12 +1,13 @@
-
 ---
-title: '轻松搞定MarkDown'
-date: 2016-12-12 21:11:54
+title: 轻松搞定MarkDown
 comments: true
 toc: true
 categories: MarkDown
-tags: [编辑器,MarkDown]
-
+tags:
+  - 编辑器
+  - MarkDown
+abbrlink: aebfe40d
+date: 2016-12-12 21:11:54
 ---
 
 Markdown是一种轻量级的标记语言，用简单的标记语法就可以达到排版的目的，可以使我们更加专注于内容的编写，而不用过多的关注排版。本文主要整理了Markdown中常用的标记语法，便于以后查用。

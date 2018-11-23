@@ -1,10 +1,14 @@
 ---
 title: EventBus源码解读
-date: 2016年01月12日 10:25:29
+date: '2016年01月12日 10:25:29'
 comments: true
 toc: true
 categories: 移动开发
-tags: [EventBus,Android,GitHub]
+tags:
+  - EventBus
+  - Android
+  - GitHub
+abbrlink: 71d27a28
 ---
 之前写了EventBus的使用详解，下面来详细分析一下EventBus的源码吧。  
 

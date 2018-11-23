@@ -1,10 +1,13 @@
 ---
 title: Android群英传读书笔记系列（二）
-date: 2017-01-18 15:29:23
 comments: true
 toc: true
 categories: Android
-tags: [读书,笔记]
+tags:
+  - 读书
+  - 笔记
+abbrlink: cddb9e34
+date: 2017-01-18 15:29:23
 ---
 
 Android群英传读书笔记记录，备忘，关于一些知识点以及重要的地方。

@@ -1,10 +1,14 @@
 ---
 title: EventBus使用详解
-date: 2016-01-09 23:52:53
 comments: true
 toc: true
 categories: 移动开发
-tags: [EventBus,Android,GitHub]
+tags:
+  - EventBus
+  - Android
+  - GitHub
+abbrlink: 8d3d210c
+date: 2016-01-09 23:52:53
 ---
 
 前言：EventBus出来有一段时间了，github上面也有很多开源项目中用到  
